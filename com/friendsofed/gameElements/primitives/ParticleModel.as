@@ -1,0 +1,1 @@
+﻿package com.friendsofed.gameElements.primitives{	public class ParticleModel extends AVerletModel	{		public function ParticleModel():void 		{		}	}}

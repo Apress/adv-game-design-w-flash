@@ -1,0 +1,20 @@
+<projectDescription>
+  <id>1250099614485</id>
+  <name>vectorBasics</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh HD/Rex/Books/Advanced Game Design/Test Files/ChapterOne/Vector Basics/src/vectorBasics.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Rex/Books/Advanced Game Design/Test Files/ChapterOne/Vector Basics/src/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="RotationText.as">file:///Macintosh HD/Rex/Books/Advanced Game Design/Test Files/ChapterOne/Vector Basics/src/utils/RotationText.as</uri>
+    <uri label="VectorBasics.as">file:///Macintosh HD/Rex/Books/Advanced Game Design/Test Files/ChapterOne/Vector Basics/src/vectorBasics/VectorBasics.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

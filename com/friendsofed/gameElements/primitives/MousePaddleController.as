@@ -1,0 +1,1 @@
+﻿package com.friendsofed.gameElements.primitives{	import flash.events.MouseEvent;	public class MousePaddleController 	{	  private var _model:Object;		public function MousePaddleController(model:AVerletModel):void 		{			_model = model;		}  	public function processMouseMove(event:MouseEvent, stage:Object):void  	{  	  _model.setX = stage.mouseX;  	}	}}

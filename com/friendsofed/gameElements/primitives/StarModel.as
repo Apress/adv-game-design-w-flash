@@ -1,0 +1,1 @@
+﻿package com.friendsofed.gameElements.primitives{	import flash.events.Event;	import flash.events.EventDispatcher;	public class StarModel extends AVerletModel	{		public function StarModel(width:uint = 30, height:uint = 30, color:uint = 0x999999):void 		{		  this.width = width;		  this.height = height;		  this.color = color;		}	}}
